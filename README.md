@@ -1,7 +1,6 @@
 ![bandeira-esq](https://user-images.githubusercontent.com/65928388/145327128-8095c195-e303-45ac-990e-a4b3b0ff3cb0.png)
 
-## Perfil racial e etário das pessoas assassinadas pela polícia na cidade de São Paulo(2013-2021) 
-## Racial and age profile of those killed by the police in the city of São Paulo(2013-2021)    
+## Perfil racial e etário das pessoas assassinadas pela polícia na cidade de São Paulo(2013-2021)/Racial and age profile of those killed by the police in the city of São Paulo(2013-2021)    
 https://public.tableau.com/app/profile/indra.seixas.neiva4641/viz/PolicekillingsinSoPaulo/Story1#1
 
 
