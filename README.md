@@ -6,14 +6,24 @@ https://public.tableau.com/app/profile/indra.seixas.neiva4641/viz/Policekillings
 
 
 ## Apresentação/ Summary
-Esta pesquisa é fruto da necessidade de ampliação do conhecimento que temos sobre as diferentes dimensões em que opera o racismo estrutural no Brasil, através do uso de dados estatísticos. O objetivo é analisar as características das pessoas assassinadas pela polícia paulistana tendo como parâmetros: a faixa etária, o perfil racial e a localização (subprefeitura). Diante dos resultados da pesquisa, realizei também um conciso panorama da demografia racial e da situação de vulnerabilidade por subprefeitura, através do Índice Paulista de Vulnerabilidade Social.
-
-This research results of the need to expand the knowledge we have about the different dimensions in which structural racism operates in Brazil, through the use of statistical data. The objective is to analyze the characteristics of the people murdered by the police in São Paulo using the following parameters: age group, racial profile and location (Districts city hall). In view of the analysis results, I also carried out a concise overview of the racial demography and of the situation of vulnerability by city district, through the São Paulo Social Vulnerability Index
+Esta pesquisa é fruto da necessidade de ampliação do conhecimento que temos sobre as diferentes dimensões em que opera o racismo estrutural no Brasil, através do uso de dados estatísticos. O objetivo é analisar as características das pessoas assassinadas pela polícia paulistana tendo como parâmetros: a faixa etária, o perfil racial e a localização (subprefeitura). Diante dos resultados da pesquisa, realizei também um conciso panorama da demografia racial e da situação de vulnerabilidade por subprefeitura, através do Índice Paulista de Vulnerabilidade Social./ This research results of the need to expand the knowledge we have about the different dimensions in which structural racism operates in Brazil, through the use of statistical data. The objective is to analyze the characteristics of the people murdered by the police in São Paulo using the following parameters: age group, racial profile and location (Districts city hall). In view of the analysis results, I also carried out a concise overview of the racial demography and of the situation of vulnerability by city district, through the São Paulo Social Vulnerability Index
 https://public.tableau.com/app/profile/indra.seixas.neiva4641/viz/PolicekillingsinSoPaulo/Story1#1
 
 
 Metodologia/ Methodology
 Os dados coletados e analisados são provenientes das seguintes fontes: a) Registros da Secretaria de Segurança Pública de São Paulo - de um conjunto de dados obtidos dos boletins policiais realizados pela polícia de 2013 a 2021 denominado "Morte decorrente de intervenção policial" - com dados de vítimas de violência policial na cidade de São Paulo http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx.Censo, b) Censo Demográfico de 2010 (IBGE)https://censo2010.ibge.gov.br/ e c) Índice Paulista de Vulnerabilidade Social(2010)http://ipvs.seade.gov.br. A análise foi realizada por idade, ano do óbito, região da cidade e perfil racial (negros e brancos). A limpeza e manipulação dos dados foi feita no Jupyter Notebook e a exposição dos dados no Tableau.
+
+Tecnologias/ Technologies
+Python version 3.9
+
+Ferramentas/ Tools
+Jupyter, Tableau
+
+Serviços/ Services
+Github
+
+Bibliotecas/ Libraries
+matplotlib numpy pandas csv
 
 The data collected and analyzed come from the following sources: a) Records of the Public Security Secretariat of São Paulo - from a set of data obtained from police bulletins carried out by the police from 2013 to 2021 called "Death resulting from police intervention" - with data of victims of police violence in the city of São Paulo http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx.Censo,
 b) 2010 Demographic Census (IBGE)https://censo2010.ibge.gov.br/, and c) São Paulo Social Vulnerability Index(2010)http://ipvs.seade.gov.br. The analysis was performed by age, year of death, region of the city and racial profile (black and white).The analysis was performed by age, year of death, region of the city and racial profile (black and white). Cleaning and manipulation of the data was done in Jupyter Notebook and data exposition in Tableau.
@@ -44,8 +54,3 @@ Although the State of São Paulo has one of the lowest rates of homicides and po
 
 * Limites do uso da força policial no Estado de São Paulo
  https://www.scielo.br/j/cebape/a/hZdwqVLLt55ZjTfP8GpFcdL/?lang=pt#
-
-
-
-
-
