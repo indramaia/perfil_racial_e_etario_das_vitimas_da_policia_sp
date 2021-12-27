@@ -24,14 +24,15 @@ Nuvem de palavras feita a partir de uma das colunas ("Naturezas") dos dados da S
 
 Word cloud created from one of the columns ("Natures") of  the Department of Security dataset, where the word resistance is the 3rd word that most appears  as the police justification for the murders. Resistance or resistance followed by death is the expression used by the police for “resistance to the legal order of arrest” followed by death - where the police officer is not even indicted, he is designated as a “victim” and the dead person becomes “imputed, with his/her own death“.
 
-![Slide20](https://user-images.githubusercontent.com/65928388/147493888-71c9331c-e82e-47c2-a97b-d4a5aa24525a.PNG)
+![Slide20](https://user-images.githubusercontent.com/65928388/147494778-61899d64-f8c7-4350-b301-f2dc4a05602f.PNG)
+
 
 
 ## Conclusão/Conclusion
 
-- Pessoas negras compõem 68% dos mortos pela polícia paulistana, apesar de serem apenas 37% da população, apontando para  a existência de um padrão de seletividade que vitima desproporcionalmente pessoas negras, particularmente crianças e jovens negros na cidade de São Paulo.  
+- Pessoas negras compõem 68% dos mortos pela polícia paulistana, apesar de serem apenas 37% da população, apontando para  a existência de um padrão de seletividade que vitima desproporcionalmente pessoas negras, particularmente crianças e jovens negros na cidade de São Paulo./ Black people make up 67% of those murdered by the police in São Paulo, despite being only 37% of the population, pointing to a pattern of selectivity that disproportionately victimizes black people, particularly black children and youngsters in the city of São Paulo.
 
-Black people make up 67% of those murdered by the police in São Paulo, despite being only 37% of the population, pointing to a pattern of selectivity that disproportionately victimizes black people, particularly black children and youngsters in the city of São Paulo.
+![#dataanalysis #dataculture #blackppl](https://user-images.githubusercontent.com/65928388/147493994-3beb2c98-ca2f-4734-b7cd-37adc15deb13.png)
 
 - Essa tendência se acirrou entre 2013 e 2016  com a taxa de homicídios de pessoas negras dobrando em apenas 3 anos. Em 2016, essa taxa superou em 3,5 vezes a da população não negra. A partir de 2017 observa-se uma queda contínua chegando a taxa de homicídios da população negra a quase 2,5 vezes a da população não negra em 2020. Pesquisadores do Fórum Brasileiro de Segurança Pública (FBSP) e da Fundação Getúlio Vargas(FGV) indicam que essa queda é resultado tanto da profissionalização da polícia de São Paulo quanto do papel do Primeiro Comando da Capital (PCC) para a melhoria da Segurança Pública na cidade de São Paulo.
 
@@ -40,8 +41,11 @@ This trend intensified between 2013 and 2016  with the homicide rate of black p
 - Apesar de o Estado de São Paulo ter uma das menores taxa de homicídios e letalidade policial de pessoas negras inclusive, esse é um dado que precisamos levar em consideração com cautela, haja vista os diferentes perfis raciais de cada Estado e cidade. Além disso, uma revisão sistemática dos dados sobre violência policial na cidade de São Paulo e no Brasil é fundamental para considerar também a provável subestimação da violência policial e limitações dos sistemas de registros de homicídios. 
 
 Although the State of São Paulo has one of the lowest rates of homicides and police lethality among black people, this is a fact that we need to take into account with caution, given the different racial profiles of each state and city. In addition, a systematic review of data on police violence in the city of São Paulo and in Brazil is essential to also consider the likely underestimation of police violence and limitations of homicide record systems.
-![#dataanalysis #dataculture #blackppl](https://user-images.githubusercontent.com/65928388/147493994-3beb2c98-ca2f-4734-b7cd-37adc15deb13.png)
-
 
 * Limites do uso da força policial no Estado de São Paulo
  https://www.scielo.br/j/cebape/a/hZdwqVLLt55ZjTfP8GpFcdL/?lang=pt#
+
+
+
+
+
