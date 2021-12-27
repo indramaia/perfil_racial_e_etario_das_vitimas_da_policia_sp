@@ -9,19 +9,19 @@ Esta pesquisa é fruto da necessidade de ampliação do conhecimento que temos s
 https://public.tableau.com/app/profile/indra.seixas.neiva4641/viz/PolicekillingsinSoPaulo/Story1#1
 
 
-Metodologia/ Methodology
+## Metodologia/ Methodology
 Os dados coletados e analisados são provenientes das seguintes fontes: a) Registros da Secretaria de Segurança Pública de São Paulo - de um conjunto de dados obtidos dos boletins policiais realizados pela polícia de 2013 a 2021 denominado "Morte decorrente de intervenção policial" - com dados de vítimas de violência policial na cidade de São Paulo http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx.Censo, b) Censo Demográfico de 2010 (IBGE)https://censo2010.ibge.gov.br/ e c) Índice Paulista de Vulnerabilidade Social(2010)http://ipvs.seade.gov.br. A análise foi realizada por idade, ano do óbito, região da cidade e perfil racial (negros e brancos). A limpeza e manipulação dos dados foi feita no Jupyter Notebook e a exposição dos dados no Tableau.
 
-Tecnologias/ Technologies
+#### Tecnologias/ Technologies
 Python version 3.9
 
-Ferramentas/ Tools
+#### Ferramentas/ Tools
 Jupyter, Tableau
 
-Serviços/ Services
+#### Serviços/ Services
 Github
 
-Bibliotecas/ Libraries
+#### Bibliotecas/ Libraries
 matplotlib numpy pandas csv
 
 The data collected and analyzed come from the following sources: a) Records of the Public Security Secretariat of São Paulo - from a set of data obtained from police bulletins carried out by the police from 2013 to 2021 called "Death resulting from police intervention" - with data of victims of police violence in the city of São Paulo http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx.Censo,
